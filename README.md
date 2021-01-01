@@ -1,6 +1,8 @@
+<img src="image.png" alt="apollo-3d-icon">
+
 # Apollo 3d Icon
 
-<img src="image.png" alt="apollo-3d-icon">
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Usage
 
@@ -17,3 +19,7 @@
 ### Software
 
 * [Spline](https://spline.design/)
+
+### License
+
+* This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
