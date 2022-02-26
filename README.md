@@ -14,7 +14,7 @@
 
 ### Author
 
-* [Joie Angelo Llantero](https://github.com/joiellantero) (Sudocat)
+* [Joie Llantero](https://github.com/joiellantero)
 
 ### Software
 
